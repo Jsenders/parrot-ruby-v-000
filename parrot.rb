@@ -4,4 +4,3 @@ def parrot(argument)
   puts "Pretty bird!"
   return "Squawk!"
 end
-
